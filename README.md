@@ -4,4 +4,4 @@ It is a Responsive landing page of a website which I created in just "5 minutes"
 # Demo
 you can watch the live demo of this page by clicking the link below -
 
-# landing-page-in-5-minutes.netlify.app
+# (https://landing-page-in-5-minutes.netlify.app)
